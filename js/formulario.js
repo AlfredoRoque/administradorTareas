@@ -1,5 +1,6 @@
 
 eventListeners();
+
 function eventListeners(){
     document.querySelector('#formulario').addEventListener('submit', validarRegistro);
 }
