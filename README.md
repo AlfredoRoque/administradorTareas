@@ -1,1 +1,3 @@
 # uptask
+
+install db
